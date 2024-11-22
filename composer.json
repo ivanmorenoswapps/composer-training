@@ -1,0 +1,11 @@
+{
+    "name": "swappsco/composer-workshop",
+    "description": "Generated with composer init",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Iván Moreno",
+            "email": "cmoreno@swapps.co"
+        }
+    ]
+}
